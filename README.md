@@ -70,13 +70,7 @@ This project demonstrates a smart AI-powered system to **predict and optimize en
 - **Encrypted:** `b'gAAAAA...<token>'`
 - **Decrypted:** `Confidential Usage Data: 1180w`
 
----
-## Output
 
-![Consoleoutput](output.png)
-
-
----
 
 ## ⏱️ Performance
 
